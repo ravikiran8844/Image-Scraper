@@ -13,8 +13,8 @@ This project is a simple web scraper built with Puppeteer that extracts all imag
 ## **Installation**  
 1. Clone the repository:  
    ```bash  
-   git clone <repository-url>  
-   cd <repository-name>  
+   git clone https://github.com/ravikiran8844/Image-Scraper.git  
+   cd Image-Scraper
    ```  
 2. Install dependencies:  
    ```bash  
